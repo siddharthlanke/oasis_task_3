@@ -1,2 +1,1 @@
-# OIBSIP_task_3
-This is the third task of data science internship from Oasis Infobyte named sales prediction using python
+Building a model which predicts sales based on the money spent on different platforms for marketing.
